@@ -1,0 +1,110 @@
+[[TorchCAPI]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "de17f4d9ca2cb4461e75290018eb42169b0670c0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "15bc54fd64f170c2d5523cf8f605e6b16d5d42fb93566edb74dc02bc01dd1771"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[TorchCAPI]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "70d1621e47a8831881a79fa4370ec50798bb3ee1"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "5ff0c6cc0c6a21eacec4ccfee1eedf355c8fa9371495240126711033ad7904fc"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[TorchCAPI]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9689b127ef650ecc367117e8682a9616eca25c00"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "88604790c9edb9684405c358d0fc0f74c50663b8c50f951c5b07c59a625ea852"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[TorchCAPI]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8fdc92bec2181a4c9ade13b7b19a4d959e7855c8"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "32ad7a24b7dfd927071a9c04b71c94e1f27107abad82e41acfd9bea21e5963d6"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[TorchCAPI]]
+arch = "x86_64"
+git-tree-sha1 = "da6660a0328214378d010dbf78e7fa5cf6870b9e"
+lazy = true
+os = "macos"
+
+    [[TorchCAPI.download]]
+    sha256 = "0f707bac0874489f3b2fd6f5f7eda7a03d9c257f4666c5da56990dd66b823da6"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.x86_64-apple-darwin.tar.gz"
+[[TorchCAPI]]
+arch = "aarch64"
+git-tree-sha1 = "743d06ebbf09235a110619ee570897fa1b80bf0e"
+lazy = true
+os = "macos"
+
+    [[TorchCAPI.download]]
+    sha256 = "e6e3ebc384bfa7e79ea8f594b34fecc4cc0cd884e6b1bbed9b40228251c18f2c"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.aarch64-apple-darwin.tar.gz"
+[[TorchCAPI]]
+arch = "x86_64"
+cuda = "10.2"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "63033df2cf3b60ad5fe87a2f2a3af9bf6d9a35de"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "dca9de60545bad53867b783d468fe67c27e72b833957136232210b3e02890c59"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.x86_64-linux-gnu-cxx03-cuda+10.2.tar.gz"
+[[TorchCAPI]]
+arch = "x86_64"
+cuda = "10.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "346e843a15c88a65a96630f6e59b1468f120b27a"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "a323c73c4c3d50a39b150116c3228b2d825cf213702c5b88ae7df55230931025"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.x86_64-linux-gnu-cxx11-cuda+10.2.tar.gz"
+[[TorchCAPI]]
+arch = "x86_64"
+cuda = "11.3"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "85e7993d866f2b3ebc5299a046bd187028684251"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "e8cadc1842e25a991f34041607dbbf111451c75efd87730070c7fe99eeb52ce1"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.x86_64-linux-gnu-cxx03-cuda+11.3.tar.gz"
+[[TorchCAPI]]
+arch = "x86_64"
+cuda = "11.3"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b67471f172e782dd12b28761d02dda03a3bb1a0f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[TorchCAPI.download]]
+    sha256 = "29a38b3ca04d6e197f16c684cb43d12d6a0575ce4ad2f82abdbf87ab59383c76"
+    url = "https://github.com/JuliaBinaryWrappers/TorchCAPI_jll.jl/releases/download/TorchCAPI-v0.2.0+0/TorchCAPI.v0.2.0.x86_64-linux-gnu-cxx11-cuda+11.3.tar.gz"
